@@ -40,3 +40,4 @@ For detailed paper walkthrough on DeepSeek-R1: Incentivizing Reasoning Capabilit
 
 Run the Jupyter notebook [`deepseek-bedrock.ipynb`](deepseek-bedrock.ipynb) for detailed implementation.
 
+AWS Guide: https://community.aws/content/2sECf0xbpgEIaUpAJcwbrSnIGfu/deploying-deepseek-r1-model-on-amazon-bedrock
